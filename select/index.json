@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Looook UP !!!",
+  "base_artist": "内田雄馬",
+  "createdAt": "2026-03-15T22:17:30.910105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Looook UP !!!",
+      "artist": "Yuma Uchida",
+      "has_synced": true,
+      "path": "select/01_Looook_UP_!!!_Yuma_Uchida.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Looook UP!!!",
+      "artist": "内田雄馬",
+      "has_synced": false,
+      "path": "select/pl_01_Looook_UP!!!_内田雄馬.txt"
+    }
+  ]
+}
